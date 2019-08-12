@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time   : 2019/8/1 13:52
 # @Author : lixufeng
-# @File   : fromxinlang.py
+# @File   : getDataFromXinLang.py
 
 import requests
 from lxml import etree
